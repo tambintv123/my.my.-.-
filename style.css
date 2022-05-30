@@ -229,8 +229,6 @@ a:focus {
 
 .pos-4 {
   grid-area: 13 / 11 / 32 / 18;
-  height: 250px;
-  width: 200px;
 }
 
 .pos-5 {
